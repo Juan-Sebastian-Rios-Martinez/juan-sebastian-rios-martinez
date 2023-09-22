@@ -1,1 +1,2 @@
-![TEXT1](https://github.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/assets/47394043/798e94b1-5062-4876-8b65-2cde16f31d80)
+
+![main – 2](https://github.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/assets/47394043/a2845e6c-e4af-42ac-b4a9-b6a9bc7604b4)
