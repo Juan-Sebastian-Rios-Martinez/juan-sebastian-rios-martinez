@@ -1,4 +1,3 @@
 HIT
 
-
-![uno](https://github.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/assets/47394043/adbf2584-ca84-4d6b-9a26-8fcafbc533cd)
+![main](https://github.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/assets/47394043/d915f461-4090-4e52-982c-c5584ed0c38f)
