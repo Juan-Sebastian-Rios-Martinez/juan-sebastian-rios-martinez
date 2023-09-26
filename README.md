@@ -1,1 +1,1 @@
-![Grupo 732](https://github.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/assets/47394043/3d360767-780e-4b19-aa5e-3eca6746f770)
+![portafolio](https://github.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/assets/47394043/9a8580f3-8141-4e88-819b-5d6282d09015)
