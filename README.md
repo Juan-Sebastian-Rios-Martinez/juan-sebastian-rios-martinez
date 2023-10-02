@@ -14,7 +14,7 @@
 
 <div align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="">
+    <a href="https://co.pinterest.com/JuanSebastianRiosMartinez/">
         <img alt="" width="83"
             src="https://raw.githubusercontent.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/1a35d64afbdc8a356af4b2901b88b8c6ac0d0de7/svg/i1.svg" />
     </a>
