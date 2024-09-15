@@ -1,6 +1,6 @@
 <div align="center">
-<a href="#"></a>
-<img
+<a href="#">
+<img width="100%"
     src="https://github.com/user-attachments/assets/c16e227c-49ea-44a1-b232-3b9f3578138b" />
 </a>
 </div>
@@ -33,7 +33,7 @@
 &nbsp;
     
 <div align="center">
-<a href="https://juan-sebastian-rios-martinez.github.io/Portafolio/">
+<a href="https://notbyai.fyi/es/#not-by-ai-mission">
 <img width="200"
 src="https://github.com/user-attachments/assets/3d7b1db6-37b2-429d-a208-c688ceae7c7d" /></a>
 </div>
