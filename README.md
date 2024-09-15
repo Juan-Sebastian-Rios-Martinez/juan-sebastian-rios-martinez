@@ -33,7 +33,7 @@
 &nbsp;
     
 <div align="center">
-<a href="https://notbyai.fyi/es/#not-by-ai-mission">
-<img width="200"
+<a href="https://notbyai.fyi/about">
+<img width="190"
 src="https://github.com/user-attachments/assets/3d7b1db6-37b2-429d-a208-c688ceae7c7d" /></a>
 </div>
