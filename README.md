@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/@enfoquestorage/videos"target="_blank">
 <img width="83"src="https://github.com/user-attachments/assets/7e5c6345-6af8-4618-a97f-d5e504a38e0b"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://cults3d.com/es/usuarios/ENFOQUE3d"target="_blank">
+<a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d"target="_blank">
 <img width="83"src="https://github.com/user-attachments/assets/6bf09e20-4649-49ca-b983-ef284c29cd44"/></a>
 
 </div>
