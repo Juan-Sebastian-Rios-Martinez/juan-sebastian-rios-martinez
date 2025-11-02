@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.behance.net/JuanSebastianRios"target="_blank"><img width="83"src="https://raw.githubusercontent.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/1a35d64afbdc8a356af4b2901b88b8c6ac0d0de7/svg/i2.svg"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@enfoquestorage/videos"target="_blank">
+<a href="https://www.youtube.com/@enfoque-design-studio"target="_blank">
 <img width="83"src="https://github.com/user-attachments/assets/7e5c6345-6af8-4618-a97f-d5e504a38e0b"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d"target="_blank">
