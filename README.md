@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
 
 <div align="center">
@@ -22,15 +20,15 @@
 
 <div align="center">
     <a href="https://co.pinterest.com/JuanSebastianRiosMartinez/"target="_blank">
-<img width="83"src="https://raw.githubusercontent.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/1a35d64afbdc8a356af4b2901b88b8c6ac0d0de7/svg/i1.svg"/></a>
+<img width="150"src="https://github.com/user-attachments/assets/eef13b7f-774e-4cd8-9c97-68555e59624b"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/JuanSebastianRios"target="_blank"><img width="83"src="https://raw.githubusercontent.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/1a35d64afbdc8a356af4b2901b88b8c6ac0d0de7/svg/i2.svg"/></a>
+<a href="https://www.behance.net/JuanSebastianRios"target="_blank"><img width="150"src="https://github.com/user-attachments/assets/d27a0153-f2af-44de-a691-8816223db03b"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@enfoque-design-studio"target="_blank">
-<img width="83"src="https://github.com/user-attachments/assets/7e5c6345-6af8-4618-a97f-d5e504a38e0b"/></a>
+<img width="150"src="https://github.com/user-attachments/assets/c35cfe97-7514-46d2-bf08-2ecca77b70ad"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d"target="_blank">
-<img width="83"src="https://github.com/user-attachments/assets/6bf09e20-4649-49ca-b983-ef284c29cd44"/></a>
+<img width="150"src="https://github.com/user-attachments/assets/1ca664c5-9a5d-46ae-94b8-e7f333beb2c7"/></a>
 
 </div>
 
@@ -38,6 +36,11 @@
     
 <div align="center">
 <a href="https://notbyai.fyi/about">
-<img width="200"
+<img width="400"
 src="https://github.com/user-attachments/assets/3d7b1db6-37b2-429d-a208-c688ceae7c7d" /></a>
 </div>
+
+
+
+
+
