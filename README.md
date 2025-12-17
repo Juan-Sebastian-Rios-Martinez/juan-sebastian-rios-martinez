@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="#">
-        <img width="350"
+        <img width="3000"
             src="https://github.com/user-attachments/assets/a3c73331-42e1-414a-baac-7866b543cb4d" />
     </a>
 </div>
