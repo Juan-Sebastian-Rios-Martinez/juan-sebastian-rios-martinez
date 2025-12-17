@@ -12,7 +12,7 @@
 <div align="center">
     <a href="https://juan-sebastian-rios-martinez.github.io/Portafolio/">
         <img width="500"
-            src="https://raw.githubusercontent.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/1a35d64afbdc8a356af4b2901b88b8c6ac0d0de7/svg/p2.svg" />
+            src="https://github.com/user-attachments/assets/34573299-1dd7-4300-b604-4b2b54dddc9c" />
     </a>
 </div>
 
