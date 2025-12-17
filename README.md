@@ -19,10 +19,10 @@
 &nbsp;
 
 <div align="center">
-    <a href="https://co.pinterest.com/JuanSebastianRiosMartinez/"target="_blank">
+    <a href="https://www.youtube.com/@enfoque-design-studio"target="_blank">
 <img width="108"src="https://github.com/user-attachments/assets/eef13b7f-774e-4cd8-9c97-68555e59624b"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/JuanSebastianRios"target="_blank"><img width="108"src="https://github.com/user-attachments/assets/d27a0153-f2af-44de-a691-8816223db03b"/></a>
+<a href="https://www.youtube.com/@enfoque-tactical"target="_blank"><img width="108"src="https://github.com/user-attachments/assets/d27a0153-f2af-44de-a691-8816223db03b"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@enfoque-driver"target="_blank">
 <img width="108"src="https://github.com/user-attachments/assets/c35cfe97-7514-46d2-bf08-2ecca77b70ad"/></a>
