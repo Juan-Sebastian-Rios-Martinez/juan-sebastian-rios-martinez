@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="#">
-        <img width="600"
+        <img width="700"
             src="https://github.com/user-attachments/assets/a3c73331-42e1-414a-baac-7866b543cb4d" />
     </a>
 </div>
@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="https://juan-sebastian-rios-martinez.github.io/Portafolio/">
-        <img width="600"
+        <img width="700"
             src="https://raw.githubusercontent.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/1a35d64afbdc8a356af4b2901b88b8c6ac0d0de7/svg/p2.svg" />
     </a>
 </div>
