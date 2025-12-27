@@ -3,7 +3,7 @@
 
 <div align="center">
     <a href="#">
-        <img width="400"
+        <img width="420"
             src="https://github.com/user-attachments/assets/a3c73331-42e1-414a-baac-7866b543cb4d" />
     </a>
 </div>
@@ -11,7 +11,7 @@
 
 <div align="center">
     <a href="https://juan-sebastian-rios-martinez.github.io/Portafolio/">
-        <img width="400"
+        <img width="420"
             src="https://raw.githubusercontent.com/Juan-Sebastian-Rios-Martinez/juan-sebastian-rios-martinez/1a35d64afbdc8a356af4b2901b88b8c6ac0d0de7/svg/p2.svg" />
     </a>
 </div>
@@ -20,15 +20,15 @@
 
 <div align="center">
     <a href="https://www.youtube.com/@enfoque-design-studio"target="_blank">
-<img width="89"src="https://github.com/user-attachments/assets/eef13b7f-774e-4cd8-9c97-68555e59624b"/></a>
+<img width="90"src="https://github.com/user-attachments/assets/eef13b7f-774e-4cd8-9c97-68555e59624b"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@enfoque-tactical"target="_blank"><img width="80"src="https://github.com/user-attachments/assets/d27a0153-f2af-44de-a691-8816223db03b"/></a>
+<a href="https://www.youtube.com/@enfoque-tactical"target="_blank"><img width="90"src="https://github.com/user-attachments/assets/d27a0153-f2af-44de-a691-8816223db03b"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@enfoque-driver"target="_blank">
-<img width="80"src="https://github.com/user-attachments/assets/c35cfe97-7514-46d2-bf08-2ecca77b70ad"/></a>
+<img width="90"src="https://github.com/user-attachments/assets/c35cfe97-7514-46d2-bf08-2ecca77b70ad"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d"target="_blank">
-<img width="80"src="https://github.com/user-attachments/assets/1ca664c5-9a5d-46ae-94b8-e7f333beb2c7"/></a>
+<img width="90"src="https://github.com/user-attachments/assets/1ca664c5-9a5d-46ae-94b8-e7f333beb2c7"/></a>
 
 </div>
 
