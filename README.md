@@ -4,11 +4,10 @@
 <div align="center">
     <a href="#">
         <img width="800"
-            src="https://github.com/user-attachments/assets/82b2749b-cc31-40ba-85f5-6070efa9f0b3" />
+            src="https://github.com/user-attachments/assets/b11e2f6f-b1e3-4ede-b991-c924d3320f2e" />
     </a>
 </div>
-
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <div align="center">
     <a href="https://juan-sebastian-rios-martinez.github.io/Portafolio/">
@@ -16,8 +15,7 @@
             src="https://github.com/user-attachments/assets/7729687f-c3eb-44b6-b6c8-67c27c9aadeb" />
     </a>
 </div>
-
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <div align="center">
     <a href="https://www.youtube.com/@enfoque-design-studio"target="_blank">
@@ -39,9 +37,5 @@
 </div>
 
 &nbsp;
-
-
-
-
 
 
