@@ -8,7 +8,7 @@
     </a>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <div align="center">
     <a href="https://juan-sebastian-rios-martinez.github.io/Portafolio/">
@@ -17,7 +17,7 @@
     </a>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <div align="center">
     <a href="https://www.youtube.com/@enfoque-design-studio"target="_blank">
