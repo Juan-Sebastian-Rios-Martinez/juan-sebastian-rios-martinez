@@ -17,27 +17,28 @@
     </a>
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <div align="center">
     <a href="https://www.youtube.com/@enfoque-design-studio"target="_blank">
-<img width="90"src="https://github.com/user-attachments/assets/eef13b7f-774e-4cd8-9c97-68555e59624b"/></a>
+<img width="115"src="https://github.com/user-attachments/assets/eef13b7f-774e-4cd8-9c97-68555e59624b"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@enfoque-tactical"target="_blank"><img width="90"src="https://github.com/user-attachments/assets/d27a0153-f2af-44de-a691-8816223db03b"/></a>
+<a href="https://www.youtube.com/@enfoque-tactical"target="_blank"><img width="115"src="https://github.com/user-attachments/assets/d27a0153-f2af-44de-a691-8816223db03b"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@enfoque-driver"target="_blank">
-<img width="90"src="https://github.com/user-attachments/assets/c35cfe97-7514-46d2-bf08-2ecca77b70ad"/></a>
+<img width="115"src="https://github.com/user-attachments/assets/c35cfe97-7514-46d2-bf08-2ecca77b70ad"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d"target="_blank">
-<img width="90"src="https://github.com/user-attachments/assets/1ca664c5-9a5d-46ae-94b8-e7f333beb2c7"/></a>
-
+<img width="115"src="https://github.com/user-attachments/assets/1ca664c5-9a5d-46ae-94b8-e7f333beb2c7"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d"target="_blank">
+<img width="115"src="https://github.com/user-attachments/assets/00a80180-8819-43bb-9330-fb0a6971bf0a"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d"target="_blank">
+<img width="115"src="https://github.com/user-attachments/assets/9c9d7167-a927-4918-a164-ab8ed2f3aa36"/></a>
 </div>
 
 &nbsp;
-    
-<div align="center">
-<a href="https://notbyai.fyi/about">
-<img width="240"
-src="https://github.com/user-attachments/assets/3d7b1db6-37b2-429d-a208-c688ceae7c7d" /></a>
-</div>
 
 
 
