@@ -3,8 +3,8 @@
 
 <div align="center">
     <a href="#">
-        <img width="420"
-            src="https://github.com/user-attachments/assets/a3c73331-42e1-414a-baac-7866b543cb4d" />
+        <img width="600"
+            src="https://github.com/user-attachments/assets/f0fe739d-0d0c-4475-9808-436bc4a55352" />
     </a>
 </div>
 
@@ -39,8 +39,6 @@
 <img width="240"
 src="https://github.com/user-attachments/assets/3d7b1db6-37b2-429d-a208-c688ceae7c7d" /></a>
 </div>
-
-
 
 
 
