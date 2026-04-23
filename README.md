@@ -32,7 +32,7 @@
 <a href="https://steamcommunity.com/profiles/76561199417538961/"target="_blank">
 <img width="115"src="https://github.com/user-attachments/assets/00a80180-8819-43bb-9330-fb0a6971bf0a"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="juansebastianriosmartinez@proton.me"target="_blank">
+<a href="mailto:juansebastianriosmartinez@proton.me"target="_blank">
 <img width="115"src="juansebastianriosmartinez@proton.me"/></a>
 </div>
 
