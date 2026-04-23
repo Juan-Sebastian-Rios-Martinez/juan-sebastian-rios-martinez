@@ -33,6 +33,6 @@
 <img width="115"src="https://github.com/user-attachments/assets/00a80180-8819-43bb-9330-fb0a6971bf0a"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:juansebastianriosmartinez@proton.me"target="_blank">
-<img width="115"src="juansebastianriosmartinez@proton.me"/></a>
+<img width="115"src="https://github.com/user-attachments/assets/f9a85b8f-d48a-4e86-9d74-8722c0aab5c1"/></a>
 </div>
 
