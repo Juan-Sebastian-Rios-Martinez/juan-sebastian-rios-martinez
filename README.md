@@ -32,7 +32,7 @@
 <a href="https://steamcommunity.com/profiles/76561199417538961/"target="_blank">
 <img width="115"src="https://github.com/user-attachments/assets/00a80180-8819-43bb-9330-fb0a6971bf0a"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/dgwKpyZb77"target="_blank">
-<img width="115"src="https://github.com/user-attachments/assets/9c9d7167-a927-4918-a164-ab8ed2f3aa36"/></a>
+<a href=""target="_blank">
+<img width="115"src=""/></a>
 </div>
 
