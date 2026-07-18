@@ -29,8 +29,8 @@
 <a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d"target="_blank">
 <img width="115"src="https://github.com/user-attachments/assets/1ca664c5-9a5d-46ae-94b8-e7f333beb2c7"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://steamcommunity.com/profiles/76561199417538961/"target="_blank">
-<img width="115"src="https://github.com/user-attachments/assets/00a80180-8819-43bb-9330-fb0a6971bf0a"/></a>
+<a href="https://makerworld.com/en/@ENFOQUEstudio"target="_blank">
+<img width="115"src="https://github.com/user-attachments/assets/b3a21511-1de7-47b3-a4fc-80618786fc1f"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:juansebastianriosmartinez@proton.me"target="_blank">
 <img width="115"src="https://github.com/user-attachments/assets/c33a769c-e476-4e70-b6a8-43cea88500ae"/></a>
