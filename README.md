@@ -7,7 +7,7 @@
 &emsp;&ensp;<a href="https://www.youtube.com/@enfoque-driver" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/c35cfe97-7514-46d2-bf08-2ecca77b70ad" /></a>
 &emsp;&ensp;<a href="https://cults3d.com/es/usuarios/ENFOQUE-design-studio/modelos-3d" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/1ca664c5-9a5d-46ae-94b8-e7f333beb2c7" /></a>
 &emsp;&ensp;<a href="https://makerworld.com/en/@ENFOQUEstudio" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/b3a21511-1de7-47b3-a4fc-80618786fc1f" /></a>
-&emsp;&ensp;<a href="https://www.crealitycloud.com/user/2078439387/profile" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/20679902-2999-4504-ae99-415aea3de42c" /></a></div>
+&emsp;&ensp;<a href="https://www.crealitycloud.com/user/2078439387/profile" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/bcee9490-7bd3-4ce8-9c4f-9db47076b8db" /></a></div>
 &nbsp;<div align="center"><a href="https://www.printables.com/@ENFOQUE_2688012/models" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/89843e96-f86e-441e-8a04-66323b508d0c" /></a>
 &emsp;&ensp;<a href="mailto:juansebastianriosmartinez@proton.me" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/c33a769c-e476-4e70-b6a8-43cea88500ae" /></a>
 &emsp;&ensp;<a href="" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/64607ffa-8bc5-4b93-a9f7-cde90df56be5" /></a>
