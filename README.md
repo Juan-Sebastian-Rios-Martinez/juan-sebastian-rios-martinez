@@ -14,6 +14,11 @@
 &emsp;&ensp;<a href="mailto:juansebastianriosmartinez@proton.me" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/c33a769c-e476-4e70-b6a8-43cea88500ae" /></a>
 &emsp;&ensp;<a href="" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/64607ffa-8bc5-4b93-a9f7-cde90df56be5" /></a>
 &emsp;&ensp;<a href=""target="_blank"><img width="112"src="https://github.com/user-attachments/assets/64607ffa-8bc5-4b93-a9f7-cde90df56be5"/></a></div>
+&nbsp;<div align="center"><a href="https://www.youtube.com/@enfoque-design-studio" target="_blank"><img width="800" src="https://github.com/user-attachments/assets/8172ba61-2e87-40ca-9eba-a2ac54caad00" /></a></div>
+
+
+
+
 
 
 
