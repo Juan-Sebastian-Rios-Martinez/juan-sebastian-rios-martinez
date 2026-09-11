@@ -14,7 +14,7 @@
 &emsp;&ensp;<a href="mailto:juansebastianriosmartinez@proton.me" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/c33a769c-e476-4e70-b6a8-43cea88500ae" /></a>
 &emsp;&ensp;<a href="" target="_blank"><img width="112" src="https://github.com/user-attachments/assets/64607ffa-8bc5-4b93-a9f7-cde90df56be5" /></a>
 &emsp;&ensp;<a href=""target="_blank"><img width="112"src="https://github.com/user-attachments/assets/64607ffa-8bc5-4b93-a9f7-cde90df56be5"/></a></div>
-&nbsp;<div align="center"><a href="#" target="_blank"><img width="300" src="https://github.com/user-attachments/assets/3d7b1db6-37b2-429d-a208-c688ceae7c7d" /></a></div>
+&nbsp;<div align="center"><a href="https://notbyai.fyi/about" target="_blank"><img width="300" src="https://github.com/user-attachments/assets/3d7b1db6-37b2-429d-a208-c688ceae7c7d" /></a></div>
 
 
 
